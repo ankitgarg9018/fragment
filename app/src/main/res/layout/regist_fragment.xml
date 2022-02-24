@@ -39,6 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
+            android:id="@+id/password"
             android:layout_marginTop="10dp"
             android:ems="10"
             android:textSize="20dp"/>
@@ -46,6 +47,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Conform Password"
+            android:id="@+id/cpassword"
             android:layout_marginTop="10dp"
             android:ems="10"
             android:textSize="20dp"/>
@@ -54,6 +56,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20dp"
+            android:id="@+id/btreg"
             android:text="Register"/>
     </LinearLayout>
 

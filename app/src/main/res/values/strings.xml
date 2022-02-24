@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFragment</string>
+    <string name="valib_msg">Please Enter Valid UserName &amp; Password</string>
 </resources>
